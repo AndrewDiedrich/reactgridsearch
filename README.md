@@ -1,3 +1,5 @@
+Using unsplash images api search, return grid styled css with dynamic grid-grow-end span value with js to adjust based on image height. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
